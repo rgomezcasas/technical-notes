@@ -1,22 +1,27 @@
 # Learning notes
 
-Taking notes on books I read, talks I watch and articles I study, recalling them right afterwards by creating short
-summaries, helps a lot on my learning process. Here you'll find some of those little pieces.
-
 ### Talk notes
+> Talks I watched
 
 * [Maybe Not](talks/maybe-not.md) by **Rich Hickey**, 2018.
 
 
 ### Conference notes
-
-* [Lambda World 2017](conferences/Lambda%20World%202017)
+> Conferences I went
+* [Lambda World 2017](conferences/Lambda_World_2017)
 
 
 ### Book notes
+> Books I read
 
 
 ### Article notes
+> Articles I studied
+
+
+### Research notes
+> Researches I did
+* [Which laptop should I buy](researches/2019-06-Which_Laptop_Should_I_Buy.md)
 
 
 ## Contributing
