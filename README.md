@@ -24,6 +24,9 @@
 * [Which laptop should I buy](researches/2019-06-Which_laptop_should_I_buy.md)
 * [Which linux configuration should I use](researches/2019-06-Which_linux_configuration_should_I_use.md)
 
+### Interesting links
+> Could be very random
+* [Interesting links](interesting-links/interesting-links.md)
 
 ## Contributing
 
