@@ -21,7 +21,8 @@
 
 ### Research notes
 > Researches I did
-* [Which laptop should I buy](researches/2019-06-Which_Laptop_Should_I_Buy.md)
+* [Which laptop should I buy](researches/2019-06-Which_laptop_should_I_buy.md)
+* [Which linux configuration should I use](researches/2019-06-Which_linux_configuration_should_I_use.md)
 
 
 ## Contributing
