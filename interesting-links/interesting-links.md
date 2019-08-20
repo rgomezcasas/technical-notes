@@ -6,6 +6,9 @@
 ## 🔒 Security
 * [How do SIM Cards work?](https://www.youtube.com/watch?v=iJFnYBJJiuQ)
 
+## ⬛️ Terminal
+* [Debug ZSH Startup time](https://blog.askesis.pl/post/2017/04/how-to-debug-zsh-startup-time.html)
+
 ## ⌨️ ️IntelliJ
 ### Themes
 * [Hiberbee Theme](https://github.com/Hiberbee/intellij-theme)
